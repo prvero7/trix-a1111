@@ -1,24 +1,24 @@
 [
     {
-        "name": "lustify",
+        "name": "lustify.safetensors",
         "source": "civit",
         "target": "/models/Stable-diffusion",
         "url": "https://civitai.com/api/download/models/1094291?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     {
-        "name": "perfect eyes",
+        "name": "perfect_eyes.safetensors",
         "source": "civit",
         "target": "/models/Lora",
         "url": "https://civitai.com/api/download/models/128461?type=Model&format=SafeTensor"
     },
     {
-        "name": "detailed tweaker",
+        "name": "detailed_tweaker.safetensors",
         "source": "civit",
         "target": "/models/Lora",
         "url": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor"
     },
     {
-        "name": "better faces culture",
+        "name": "better_faces_culture.safetensors",
         "source": "civit",
         "target": "/models/Lora",
         "url": "https://civitai.com/api/download/models/129994?type=Model&format=SafeTensor"

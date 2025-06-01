@@ -1,0 +1,26 @@
+[
+    {
+        "name": "lustify",
+        "source": "civit",
+        "target": "/models/Stable-diffusion",
+        "url": "https://civitai.com/api/download/models/1094291?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    },
+    {
+        "name": "perfect eyes",
+        "source": "civit",
+        "target": "/models/Lora",
+        "url": "https://civitai.com/api/download/models/128461?type=Model&format=SafeTensor"
+    },
+    {
+        "name": "detailed tweaker",
+        "source": "civit",
+        "target": "/models/Lora",
+        "url": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor"
+    },
+    {
+        "name": "better faces culture",
+        "source": "civit",
+        "target": "/models/Lora",
+        "url": "https://civitai.com/api/download/models/129994?type=Model&format=SafeTensor"
+    }
+]

@@ -1,9 +1,9 @@
 [
     {
-        "name": "lustify.safetensors",
+        "name": "real_dream_xl_v6.safetensors",
         "source": "civit",
         "target": "/models/Stable-diffusion",
-        "url": "https://civitai.com/api/download/models/1094291?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+        "url": "https://civitai.com/api/download/models/1633727?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     },
     {
         "name": "perfect_eyes.safetensors",
